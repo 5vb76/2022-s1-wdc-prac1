@@ -1,1 +1,1 @@
-hello from mcp poc
+{"title":"PoC draft PR","head":"poc-branch","base":"main"}
